@@ -1,1 +1,45 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#132436"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a6d1f" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d4af37" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8a6d1f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <!-- fine blueprint grid -->
+  <g stroke="#1f3a52" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="40" x2="1200" y2="40"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="150" y1="0" x2="150" y2="220"/>
+    <line x1="1050" y1="0" x2="1050" y2="220"/>
+  </g>
+
+  <!-- corner circuit nodes -->
+  <g stroke="#2c3e50" stroke-width="1.5" fill="none" opacity="0.8">
+    <path d="M40,20 L40,60 L110,60"/>
+    <circle cx="110" cy="60" r="3" fill="#d4af37"/>
+    <path d="M1160,20 L1160,60 L1090,60"/>
+    <circle cx="1090" cy="60" r="3" fill="#d4af37"/>
+    <path d="M40,200 L40,160 L110,160"/>
+    <circle cx="110" cy="160" r="3" fill="#d4af37"/>
+    <path d="M1160,200 L1160,160 L1090,160"/>
+    <circle cx="1090" cy="160" r="3" fill="#d4af37"/>
+  </g>
+
+  <!-- gold divider under name -->
+  <rect x="350" y="140" width="500" height="2" fill="url(#gold)"/>
+
+  <!-- name -->
+  <text x="600" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="600" fill="#f5f1e8" text-anchor="middle" letter-spacing="4">YASH SHINGNE</text>
+
+  <!-- tagline -->
+  <text x="600" y="170" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#b8860b" text-anchor="middle" letter-spacing="2">FULL STACK DEVELOPER · BACKEND ENGINEER · AI/ML</text>
+</svg>

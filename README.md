@@ -67,7 +67,6 @@ An open-source platform consolidating resume analysis, mock interviews, job trac
 ## Projects
 
 ### HealthAI — AI Healthcare Prediction & Monitoring System
-[Live](#) &nbsp;|&nbsp; [Swagger](#) &nbsp;|&nbsp; [GitHub](#)
 
 Predicts Diabetes, Breast Cancer, and Heart Disease risk using Logistic Regression and Random Forest, with SHAP explainability surfacing the top risk factors behind every prediction.
 
@@ -80,7 +79,6 @@ Predicts Diabetes, Breast Cancer, and Heart Disease risk using Logistic Regressi
 <br/>
 
 ### Indian Railway Pantry Management System
-[Live](#) &nbsp;|&nbsp; [GitHub](#)
 
 A 5-role pantry management platform (Passenger, Vendor, Pantry, Admin, Commercial) built from scratch with QR-based order verification.
 
@@ -92,7 +90,6 @@ A 5-role pantry management platform (Passenger, Vendor, Pantry, Admin, Commercia
 <br/>
 
 ### ETC Tours & Travels — Travel Booking Platform
-[Live](#) &nbsp;|&nbsp; [GitHub](#)
 
 A full-stack client delivery covering tour listings, a fleet showcase, a membership module, and live payment integration.
 

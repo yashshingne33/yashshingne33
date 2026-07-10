@@ -31,7 +31,7 @@ I'm a full stack developer with a B.Tech in Artificial Intelligence, focused on 
 
 <div align="center">
 
-| 7 | 6 | 5 | 5+ | 8.46 |
+| 10+ | 6 | 5 | 5+ | 8.46 |
 |:---:|:---:|:---:|:---:|:---:|
 | Open-source contributors led | Spring Boot microservices architected | Stateful LangGraph AI agents built | Client projects delivered end-to-end | CGPA / 10 in B.Tech AI |
 

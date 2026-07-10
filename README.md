@@ -1,8 +1,10 @@
 <div align="center">
 
-# YASH SHINGNE
+<img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/banner.svg" />
 
-### Full Stack Developer &nbsp;·&nbsp; Java Spring Boot &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=800&color=B8860B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer+%C2%B7+Java+%2F+Spring+Boot;AI%2FML+Engineer+%C2%B7+LangGraph+%2F+FastAPI;Building+production+systems%2C+end+to+end.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -67,6 +69,7 @@ An open-source platform consolidating resume analysis, mock interviews, job trac
 ## Projects
 
 ### HealthAI — AI Healthcare Prediction & Monitoring System
+[Live](#) &nbsp;|&nbsp; [Swagger](#) &nbsp;|&nbsp; [GitHub](#)
 
 Predicts Diabetes, Breast Cancer, and Heart Disease risk using Logistic Regression and Random Forest, with SHAP explainability surfacing the top risk factors behind every prediction.
 
@@ -79,6 +82,7 @@ Predicts Diabetes, Breast Cancer, and Heart Disease risk using Logistic Regressi
 <br/>
 
 ### Indian Railway Pantry Management System
+[Live](#) &nbsp;|&nbsp; [GitHub](#)
 
 A 5-role pantry management platform (Passenger, Vendor, Pantry, Admin, Commercial) built from scratch with QR-based order verification.
 
@@ -90,6 +94,7 @@ A 5-role pantry management platform (Passenger, Vendor, Pantry, Admin, Commercia
 <br/>
 
 ### ETC Tours & Travels — Travel Booking Platform
+[Live](#) &nbsp;|&nbsp; [GitHub](#)
 
 A full-stack client delivery covering tour listings, a fleet showcase, a membership module, and live payment integration.
 
@@ -149,6 +154,21 @@ A full-stack client delivery covering tour listings, a fleet showcase, a members
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashshingne33&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=b8860b&icon_color=b8860b&text_color=c9d1d9&ring_color=2c3e50" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshingne33&layout=compact&hide_border=true&bg_color=0d1117&title_color=b8860b&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=yashshingne33&hide_border=true&background=0D1117&ring=B8860B&fire=B8860B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=8A94A6" />
+
+</div>
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -178,5 +198,9 @@ I'm looking for **SDE-1 / Full Stack / Backend** roles — immediate joiner, ope
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-1a3a5c?style=for-the-badge&logo=todoist&logoColor=white)](https://yashshingne-portfolio.netlify.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashshingne33&color=2c3e50&style=flat-square&label=Profile+Views)
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/footer.svg" />
 
 </div>

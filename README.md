@@ -37,7 +37,7 @@ I'm a full stack developer with a B.Tech in Artificial Intelligence, focused on 
 
 </div>
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## Currently Building
 
@@ -53,7 +53,7 @@ An open-source platform consolidating resume analysis, mock interviews, job trac
 
 `Next.js 14` `Spring Boot 3.2` `LangGraph` `FastAPI` `Qdrant` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## Experience
 
@@ -64,7 +64,7 @@ An open-source platform consolidating resume analysis, mock interviews, job trac
 - Delivered production-ready client platforms including a 12-page real estate site (45+ components, full SEO) and a travel booking platform with live payment integration
 - Promoted to Technical Head within the internship period — now interviewing incoming interns and representing the team in client requirement and delivery meetings
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## Projects
 
@@ -103,7 +103,7 @@ A full-stack client delivery covering tour listings, a fleet showcase, a members
 
 `React` `Vite` `TypeScript` `Supabase` `Razorpay` `Tailwind CSS` `Framer Motion`
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## Tech Stack
 
@@ -146,13 +146,13 @@ A full-stack client delivery covering tour listings, a fleet showcase, a members
 
 </div>
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## Education
 
 **B.Tech, Artificial Intelligence** — G.H. Raisoni College of Engineering & Management, Nagpur &nbsp;·&nbsp; 2022 – 2026 &nbsp;·&nbsp; CGPA: 8.46 / 10
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## GitHub Analytics
 
@@ -165,9 +165,13 @@ A full-stack client delivery covering tour listings, a fleet showcase, a members
 
 <img src="https://streak-stats.demolab.com?user=yashshingne33&hide_border=true&background=0D1117&ring=B8860B&fire=B8860B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=8A94A6" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashshingne33&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
 </div>
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 ## GitHub Activity
 
@@ -185,7 +189,7 @@ A full-stack client delivery covering tour listings, a fleet showcase, a members
 
 </div>
 
----
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/yashshingne33/yashshingne33/main/svg/divider.svg" /></div>
 
 <div align="center">
 
